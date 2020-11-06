@@ -1,0 +1,9 @@
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\bin\Debug\GuessingGames.exe.config
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\bin\Debug\GuessingGames.exe
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\bin\Debug\GuessingGames.pdb
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\obj\Debug\GuessingGames.csprojAssemblyReference.cache
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\obj\Debug\GuessingGames.csproj.CoreCompileInputs.cache
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\obj\Debug\GuessingGames.exe
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\obj\Debug\GuessingGames.pdb
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\obj\Debug\GuessingGames.UI.Game.resources
+C:\repos\PlumbWorld\GuessingGames\GuessingGames\obj\Debug\GuessingGames.csproj.GenerateResource.cache
