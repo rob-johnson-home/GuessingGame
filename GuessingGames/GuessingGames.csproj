@@ -49,7 +49,7 @@
     <Compile Include="Logic\Games\HardGame.cs" />
     <Compile Include="Logic\Games\EasyGame.cs" />
     <Compile Include="Logic\Games\GameFactory.cs" />
-    <Compile Include="Logic\Games\GuessingGame.cs" />
+    <Compile Include="Logic\Interface\GuessingGame.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UI\Game.cs">
@@ -63,7 +63,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Logic\Interface\" />
     <Folder Include="Persistence\" />
   </ItemGroup>
   <ItemGroup>
